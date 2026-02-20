@@ -1,2 +1,2 @@
 # bioestadistica_abierta
-blog personal
+pruebas para herramientas
